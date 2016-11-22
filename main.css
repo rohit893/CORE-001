@@ -4,14 +4,14 @@ File: "main.css"
 DirNo: "7364"
 */
 body {
-    box-shadow: 10px 10px 200px rgba(118, 180, 120, 0.96);
+    box-shadow: 10px 10px 200px rgba(170, 180, 190, 0.96);
     color: navy;
     font-family: "Roboto", Helvetica, Arial, sans-serif;
     font-size: 16px;
     line-height: 1.5;
     margin: auto auto auto;
     max-width: 800px; 
-    padding-top: 80px;                       /*  fixed navbar is xxx tall */
+    padding-top: 80px;                       /*  fixed navbar xxx tall */
     padding-bottom: 20px;
 }
  .navbar
