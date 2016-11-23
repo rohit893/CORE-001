@@ -11,12 +11,12 @@ body {
     line-height: 1.5;
     margin: auto auto auto;
     max-width: 800px; 
-    padding-top: 80px;                       /*  fixed navbar xxx tall */
+    padding-top: 100px;                       /*  fixed navbar xxx tall */
     padding-bottom: 20px;
 }
  .navbar
 {   
-    height: 80px;                            /*  navbar >>> Hgt */
+    height: 100px;                            /*  navbar >>> Hgt */
  	background: rgb(60,60,60);  
     font-family: Helvetica, Arial, Tahoma, sans-serif;
 }
